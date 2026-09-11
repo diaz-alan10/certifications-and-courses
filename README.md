@@ -2,8 +2,6 @@
 
 Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
-# 📜 Certificaciones y Credenciales
-
 ## 🏅 Badges Verificables (Credly & IBM SkillsBuild)
 
 | Credencial | Emisor | Verificación |
@@ -20,14 +18,14 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 * **Estrategias de Búsqueda de Empleo:** [Ver Constancia (PDF)](./certificados/IBM_Estrategias_Empleo.pdf)
 * **Mentalidad Emprendedora:** [Ver Constancia (PDF)](./certificados/IBM_Mentalidad_Emprendedora.pdf)
 
-## 📜 Certificaciones Oficiales
+<!--## 📜 Certificaciones Oficiales-->
 
 <!--| Certificación / Curso | Emisor | Fecha | Credencial / Comprobante |
 | :--- | :--- | :--- | :--- |
 | **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025 | [Ver Certificado](./aws/aws_cert.pdf) / [Ver en Credly](https://link-a-tu-credencial) |
 | **Professional Scrum Master I (PSM I)** | Scrum.org | 2024 | [Ver Certificado](./scrum/psm1.pdf) |-->
 
-## 📚 Cursos y Especializaciones
+<!--## 📚 Cursos y Especializaciones-->
 
 <!--| Curso | Plataforma | Fecha | Enlace al Certificado |
 | :--- | :--- | :--- | :--- |
