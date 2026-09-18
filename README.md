@@ -14,9 +14,28 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 ## 📄 Constancias y Cursos Completados
 
 ### Habilidades Profesionales y Empleabilidad (IBM)
-* **Curso de Comunicación Efectiva:** [Ver Constancia (PDF)](./certificados/IBM_Comunicacion_Efectiva.pdf)
-* **Estrategias de Búsqueda de Empleo:** [Ver Constancia (PDF)](./certificados/IBM_Estrategias_Empleo.pdf)
-* **Mentalidad Emprendedora:** [Ver Constancia (PDF)](./certificados/IBM_Mentalidad_Emprendedora.pdf)
+* **Better Brainstorming:** [Ver Constancia (PDF)](./docs/IBM_Better_Brainstorming.pdf)
+* **4 things you can do today to boost your STEM career:** [Ver Constancia (PDF)](./docs/IBM_Boost_Your_STEM.pdf)
+* **Career advice from real-life professionals:** [Ver Constancia (PDF)](./docs/IBM_Career_advice_from_real-life_professionals.pdf)
+* **Colaborar felizmente:** [Ver Constancia (PDF)](./docs/IBM_Colaborar_felizmente.pdf)
+* **Crear un gran currículum profesional:** [Ver Constancia (PDF)](./docs/IBM_Crear_currículum_profesional.pdf)
+* **Desarrollar su marca utilizando redes sociales:** [Ver Constancia (PDF)](./docs/IBM_Desarrollar_marca_utilizando_redes_sociales.pdf)
+* **Introduction to Entrepreneurial Mindset:** [Ver Constancia (PDF)](./docs/IBM_Entrepreneurial_Mindset.pdf)
+* **Cómo hacer la entrevista de trabajo perfecta:** [Ver Constancia (PDF)](./docs/IBM_Entrevista_de_trabajo_perfecta.pdf)
+* **Habilidades interpersonales:** [Ver Constancia (PDF)](./docs/IBM_Habilidades_interpersonales.pdf)
+* **What is idea generation? - Definition, techniques and success factors:** [Ver Constancia (PDF)](./docs/IBM_Idea_Generation.pdf)
+* **8 mindset shifts entrepreneurs must make to achieve their ultimate goal:** [Ver Constancia (PDF)](./docs/IBM_Mindset_Shifts_Entrepreneurs.pdf)
+* **Solucionar problemas con pensamiento crítico y creativo:** [Ver Constancia (PDF)](./docs/IBM_Pensamiento_crítico_y_creativo.pdf)
+* **What's the point of LinkedIn, anyway?:** [Ver Constancia (PDF)](./docs/IBM_Point_of_LinkedIn.pdf)
+* **Priorizar sus objetivos con la investigación del lugar de trabajo:** [Ver Constancia (PDF)](./docs/IBM_Priorizar_objetivos_investigando_lugar_de_trabajo.pdf)
+* **Strategic clarity:** [Ver Constancia (PDF)](./docs/IBM_Strategic_Clarity.pdf)
+* **The responsible entrepreneur:** [Ver Constancia (PDF)](./docs/IBM_Responsible_Entrepreneur.pdf)
+* **7 powerful secrets of thinking like an entrepreneur:** [Ver Constancia (PDF)](./docs/IBM_Thinking_Like_an_Entrepreneur.pdf)
+* **Three things recruiters wish they could tell you:** [Ver Constancia (PDF)](./docs/IBM_Three_Things_Recruiters_Wish_They_Could_Tell.pdf)
+* **Entregar trabajo de alta calidad con rapidez:** [Ver Constancia (PDF)](./docs/IBM_Trabajo_de_alta_calidad_con_rapidez.pdf)
+* **4 simple ways to have a great idea:** [Ver Constancia (PDF)](./docs/IBM_Ways_to_have_great_idea.pdf)
+* **What makes an entrepreneur?:** [Ver Constancia (PDF)](./docs/IBM_What_makes_entrepreneur.pdf)
+* **Work together:** [Ver Constancia (PDF)](./docs/IBM_Work_Together.pdf)
 
 <!--## 📜 Certificaciones Oficiales-->
 
