@@ -13,6 +13,7 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ## 💻 Habilidades Técnicas y Especializadas
 * **Python básico:** [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf)
+* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)
 
 ---
 
