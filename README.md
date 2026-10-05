@@ -13,6 +13,8 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ## 💻 Habilidades Técnicas y Especializadas
 * **Python básico:** [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf)
+* **Excel básico-intermedio:** [Ver Constancia (PDF)](./docs/SOA_Excel_basico_intermedio.pdf)
+* **Excel intermedio-avanzado** [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio_avanzado.pdf)
 * **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)
 
 ---
@@ -62,6 +64,12 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 </details>
 
+### Cursos
+
+| Curso | Plataforma | Fecha | Enlace al Certificado |
+| :--- | :--- | :--- | :--- |
+| **Excel - de básico a intermedio** | Santander Open Academy | 2026 | [Ver Constancia (PDF)](./docs/SOA_Excel_basico_intermedio.pdf) |
+| **Excel - de intermedio a avanzado** | Santander Open Academy | 2026 | [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio_avanzado.pdf) |
 
 <!--## 📜 Certificaciones Oficiales-->
 
