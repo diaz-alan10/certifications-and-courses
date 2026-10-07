@@ -1,5 +1,4 @@
-# Certificaciones y Cursos
-
+;
 Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ## 🏅 Badges Verificables (Credly & IBM SkillsBuild)
