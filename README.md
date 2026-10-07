@@ -69,10 +69,9 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ### Cursos
 
-| Curso | Plataforma | Año | Enlace al Certificado |
+| Curso | Plataforma | Año | Certificado |
 | :--- | :--- | :--- | :--- |
-| **Excel - de básico a intermedio** | Santander Open Academy | 2026 | [Ver Constancia (PDF)](./docs/SOA_Excel_basico_intermedio.pdf) |
-| **Excel - de intermedio a avanzado** | Santander Open Academy | 2026 | [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio_avanzado.pdf) |
+| **Introducción a la ciencia de datos** | Santander Open Academy | 2026 | [Ver Constancia (PDF)](./docs/SOA_intro_ciencia_datos.pdf) |
 
 <!--## 📜 Certificaciones Oficiales-->
 
