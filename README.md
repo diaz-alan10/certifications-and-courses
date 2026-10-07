@@ -1,4 +1,4 @@
-;
+# Certificaciones y cursos
 Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ## 🏅 Badges Verificables (Credly & IBM SkillsBuild)
@@ -10,11 +10,11 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ---
 
-## 💻 Habilidades Técnicas y Especializadas
-* **Excel básico-intermedio:** [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio.pdf)
+## 💻 Habilidades Técnicas
+* **Excel- de básico a intermedio:** - Santander Open Academy (2026) - *Contenido clave:* Tablas dinámicas, funciones BUSCARV y SI, funciones vinculando hojas, ordenar y filtrar datos, y diferencia entre rangos y tablas. [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio.pdf)
 <!--* **Excel intermedio-avanzado** [Ver Constancia (PDF)](./docs/SOA_Excel_avanzado.pdf)-->
 <!--* **Power BI:** [Ver Constancia (PDF)](./docs/SOA_PowerBI.pdf)-->
-* **Python básico:** [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf)
+* **Python básico:** - UNAM (2024) - *Contenido clave:* Funciones, tuplas, diccionarios y procesamiento de datos, valores booleanos, operadores lógicos, bucles, ejecución condicional, listas, tipos de dato, variables y operaciones básicas de entrada y salida.   [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf)
 <!--* **SQL:** [Ver Constancia (PDF)](./docs/certificado_SQL.pdf)-->
 <!--* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)-->
 
