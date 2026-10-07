@@ -14,9 +14,9 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 | Curso | Emisor | Año | Contenido clave | Certificado |
 | :--- | :--- | :--- | :--- | :--- |
 | **Excel- de básico a intermedio** | Santander Open Academy | 2026 | Tablas dinámicas, funciones BUSCARV y SI, funciones vinculando hojas, ordenar y filtrar datos, y diferencia entre rangos y tablas. | [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio.pdf) |
+| **Taller de Python básico** | UNAM | 2024 | Funciones, tuplas, diccionarios y procesamiento de datos, valores booleanos, operadores lógicos, bucles, ejecución condicional, listas, tipos de dato, variables y operaciones básicas de entrada y salida. | [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf) |
 <!--* **Excel intermedio-avanzado** [Ver Constancia (PDF)](./docs/SOA_Excel_avanzado.pdf)-->
 <!--* **Power BI:** [Ver Constancia (PDF)](./docs/SOA_PowerBI.pdf)-->
-| **Taller de Python básico** | UNAM | 2024 | Funciones, tuplas, diccionarios y procesamiento de datos, valores booleanos, operadores lógicos, bucles, ejecución condicional, listas, tipos de dato, variables y operaciones básicas de entrada y salida. | [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf) |
 <!--* **SQL:** [Ver Constancia (PDF)](./docs/certificado_SQL.pdf)-->
 <!--* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)-->
 
