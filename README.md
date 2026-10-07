@@ -12,10 +12,12 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 ---
 
 ## 💻 Habilidades Técnicas y Especializadas
+* **Excel básico-intermedio:** [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio.pdf)
+<!--* **Excel intermedio-avanzado** [Ver Constancia (PDF)](./docs/SOA_Excel_avanzado.pdf)-->
+<!--* **Power BI:** [Ver Constancia (PDF)](./docs/SOA_PowerBI.pdf)-->
 * **Python básico:** [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf)
-* **Excel básico-intermedio:** [Ver Constancia (PDF)](./docs/SOA_Excel_basico_intermedio.pdf)
-* **Excel intermedio-avanzado** [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio_avanzado.pdf)
-* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)
+<!--* **SQL:** [Ver Constancia (PDF)](./docs/certificado_SQL.pdf)-->
+<!--* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)-->
 
 ---
 
