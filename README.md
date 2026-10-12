@@ -70,7 +70,7 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 
 ### Cursos
 
-| Curso | Plataforma | Año | Certificado |
+| Curso | Emisor | Año | Certificado |
 | :--- | :--- | :--- | :--- |
 | **Introducción a la ciencia de datos** | Santander Open Academy | 2026 | [Ver Constancia (PDF)](./docs/SOA_intro_ciencia_datos.pdf) |
 
