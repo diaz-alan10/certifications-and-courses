@@ -15,9 +15,10 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 | :--- | :--- | :--- | :--- | :--- |
 | **Excel - de básico a intermedio** | Santander Open Academy | 2026 | Tablas dinámicas, funciones BUSCARV y SI, funciones vinculando hojas, ordenar y filtrar datos, y diferencia entre rangos y tablas. | [Ver Constancia (PDF)](./docs/SOA_Excel_intermedio.pdf) |
 | **Taller de Python básico** | UNAM | 2023 | Funciones, tuplas, diccionarios y procesamiento de datos, valores booleanos, operadores lógicos, bucles, ejecución condicional, listas, tipos de dato, variables y operaciones básicas de entrada y salida. | [Ver Constancia (PDF)](./docs/Constancia_Taller_Python_Basico.pdf) |
+| **SQL:** | midudev | 2026 | Consultas (SELECT), filtros (WHERE, LIKE, IN, ORDER BY), funciones de agregación (COUNT, SUM, GROUP BY, HAVING), estructura de tablas (CREATE, FOREIGN KEY, INDEX), ventanas y transacciones (OVER, ROW_NUMBER, COMMIT), uniones y nulos (JOIN, NULL), manipulación de datos (INSERT, UPDATE, DELETE) y consultas avanzadas (subconsultas, UNION, CTE) | [Ver Constancia (PDF)](https://www.aprendesql.dev/certificado/2dbbd74c-cfbd-4238-a482-8ffc6aec229a) |
+
 <!--* **Excel intermedio-avanzado** [Ver Constancia (PDF)](./docs/SOA_Excel_avanzado.pdf)-->
 <!--* **Power BI:** [Ver Constancia (PDF)](./docs/SOA_PowerBI.pdf)-->
-<!--* **SQL:** [Ver Constancia (PDF)](./docs/certificado_SQL.pdf)-->
 <!--* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)-->
 
 ---
