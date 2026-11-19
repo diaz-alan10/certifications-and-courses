@@ -18,7 +18,7 @@ Aquí guardo el respaldo de mis certificaciones, licencias y cursos completados.
 | **SQL:** | midudev | 2026 | Consultas (SELECT), filtros (WHERE, LIKE, IN, ORDER BY), funciones de agregación (COUNT, SUM, GROUP BY, HAVING), estructura de tablas (CREATE, FOREIGN KEY, INDEX), ventanas y transacciones (OVER, ROW_NUMBER, COMMIT), uniones y nulos (JOIN, NULL), manipulación de datos (INSERT, UPDATE, DELETE) y consultas avanzadas (subconsultas, UNION, CTE). | [Ver Constancia (PDF)](https://www.aprendesql.dev/certificado/2dbbd74c-cfbd-4238-a482-8ffc6aec229a) |
 
 <!--| **Excel - de intermedio a avanzado** | Santander Open Academy | 2026 | agregar temario | [Ver Constancia (PDF)](./docs/SOA_Excel_avanzado.pdf) |-->
-<!--| **Fundamentos de Power BI:** | Santander Open Academy | 2026 | agregar temario | [Ver Constancia (PDF)](./docs/SOA_PowerBI.pdf) |-->
+<!--| **Fundamentos de Power BI:** | Santander Open Academy | 2026 | agregar temario | [Ver Constancia (PDF)](./docs/SOA_PowerBI_Beginner.pdf) |-->
 <!--* **Desarrollo Web con JavaScript:** [Ver Constancia (PDF)](./docs/ConstanciaTallerDWJs_AlanDíaz.pdf)-->
 
 ---
